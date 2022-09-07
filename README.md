@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anselotti
+- 👋 Hi, I’m Anssi Kosunen @anselotti
 - 👀 I’m interested in sports, politics, dogs and of course computers.
 - 🌱 I’m currently learning basics of computer programmin. I will be full stack developer!
 - 💞️ I’m looking to collaborate on ...
